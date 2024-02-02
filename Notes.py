@@ -30,7 +30,7 @@ print("here are the some modification tools are provided.What modification do yo
 while True:
     os.system("cls")
     print("Wecome to notes app")
-    print("                            menu")
+    print("                            Menu")
     print("1.Add\n2.View\n3.Delete\n4.About us\n5.Donate us\n6.Exit")
     print()
     op=int(input("Choose an option:"))

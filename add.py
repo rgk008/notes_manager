@@ -4,7 +4,7 @@ def add(db):
 
     h = input("Enter a heading: ")
     p = input("Enter a paragraph: ")
-    crn = input("enter the creator name: ")
+    crn = input("Enter the creator name: ")
 
     x = col.find()
     x = list(x)
