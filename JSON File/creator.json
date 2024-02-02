@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1,
+    "name": "Renukesvr",
+    "designation": "B.A"
+  },
+  {
+    "_id": 2,
+    "name": "Jaysuriya",
+    "designation": "B.B.A"
+  },
+  {
+    "_id": 3,
+    "name": "Gowdham",
+    "designation": "B.E"
+  }
+]

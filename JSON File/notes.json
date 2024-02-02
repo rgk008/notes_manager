@@ -1,0 +1,16 @@
+[
+  {
+  
+    "heading": "quotes",
+    "paragraph": "you must be the change you wish to seein the world",
+    "creater": "mahatma"
+  
+  },
+  {
+    "_id": 2,
+    "heading": "python funtions",
+    "paragraph": "print, type,max",
+    "creater": "kumar",
+    "created_on": "23.01.2024"
+  }
+]
